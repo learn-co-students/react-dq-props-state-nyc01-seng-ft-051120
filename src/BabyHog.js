@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import offspring from './db.js'
 import { Button } from 'semantic-ui-react'
 import normalBaby from './assets/unadulterated-hoglette.png'
 import SunBaby from './assets/sun-eyes.png'
