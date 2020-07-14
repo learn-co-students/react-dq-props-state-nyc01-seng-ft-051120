@@ -13,5 +13,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "In this program, we have three components: `App`, `MasterHog`, and `BabyHog`.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katmaldon/react-dq-props-state-nyc01-seng-ft-051120.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katmaldon/react-dq-props-state-nyc01-seng-ft-051120/issues"
+  },
+  "homepage": "https://github.com/katmaldon/react-dq-props-state-nyc01-seng-ft-051120#readme"
 }
